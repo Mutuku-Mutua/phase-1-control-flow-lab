@@ -5,9 +5,9 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2022-12-07T09:10:14.416Z",
-    "end": "2022-12-07T09:10:16.012Z",
-    "duration": 1596
+    "start": "2022-12-07T09:16:15.313Z",
+    "end": "2022-12-07T09:16:15.879Z",
+    "duration": 566
   },
   "tests": [
     {
@@ -27,14 +27,14 @@
     {
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js scuberGreetingForFeet() does not allow rides over 2500 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns \"Ok, sounds good.\" when the city is NYC",
       "fullTitle": "index.js ternaryCheckCity() returns \"Ok, sounds good.\" when the city is NYC",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -62,7 +62,7 @@
     {
       "title": "should return \"Bye.\" if anything else",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Bye.\" if anything else",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -87,14 +87,14 @@
     {
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js scuberGreetingForFeet() does not allow rides over 2500 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns \"Ok, sounds good.\" when the city is NYC",
       "fullTitle": "index.js ternaryCheckCity() returns \"Ok, sounds good.\" when the city is NYC",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -122,7 +122,7 @@
     {
       "title": "should return \"Bye.\" if anything else",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Bye.\" if anything else",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
